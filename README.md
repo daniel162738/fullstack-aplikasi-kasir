@@ -1,5 +1,5 @@
-node.js
-  nodemon index
+node.js: nodemon index
 
-npm
-  npm start
+npm: npm start
+
+xampp, apache, mysql
